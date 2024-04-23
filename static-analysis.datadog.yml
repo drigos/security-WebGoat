@@ -4,5 +4,6 @@ rulesets:
 - java-code-style
 - java-inclusive
 - java-security
+- docker-best-practices
 ignore:
 - src/main/resources/webgoat/static/*
